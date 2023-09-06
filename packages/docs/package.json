@@ -8,7 +8,7 @@
     "preview": "vite preview",
     "dev": "storybook dev -p 6006",
     "deploy-storybook":"storybook-to-ghpages",
-    "build": "build-storybook"
+    "build": "storybook build"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.4.0",
