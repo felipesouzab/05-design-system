@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@felipesouzab-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "dev": "storybook dev -p 6006",
-    "deploy-storybook":"storybook-to-ghpages",
+    "deploy-storybook": "storybook-to-ghpages",
     "build": "storybook build"
   },
   "devDependencies": {
