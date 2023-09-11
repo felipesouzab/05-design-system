@@ -1,5 +1,5 @@
 {
-  "name": "felipesouzab-ignite-ui/react",
+  "name": "@felipesouzab-ignite-ui/react",
   "version": "2.0.1",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@felipesouzab-ignite-ui/eslint-config": "*",
+    "@felipesouzab-ignite-ui/tokens": "*",
+    "@felipesouzab-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "react": "^18.2.0",
